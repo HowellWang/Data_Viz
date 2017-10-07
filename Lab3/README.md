@@ -1,5 +1,7 @@
 # Lab3
-# The final version link: https://goo.gl/QDtm5W
+# The final version link:
+# https://goo.gl/QDtm5W (Invesetors Punish Equifax for Massive Data Breach)
+# https://goo.gl/zVPVfe (Sometimes, the financial markets do not punish security breaches)
 
 Note:
 
