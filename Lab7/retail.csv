@@ -1,0 +1,5 @@
+Entity,YEAR,records lost,ORGANISATION,METHOD OF LEAK,DATA SENSITIVITY,Raw_Symbol
+Gap Inc,2007,800000,retail,lost / stolen device,SSN/Personal details,GPS
+Starbucks,2008,97000,retail,lost / stolen device,SSN/Personal details,SBUX
+Home Depot,2014,56000000,retail,hacked,Credit card information,HD
+Target,2014,70000000,retail,hacked,Credit card information,TGT
