@@ -31,4 +31,6 @@
 
 1. Built a dashboard to present all the outcomes which can spare audience's time 
 
+![dashboard](img/dashboard.png)
+
 
