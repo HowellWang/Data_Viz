@@ -87,11 +87,11 @@ There is Japan's chart, we can easily see that the suicide would get the bottom 
  ![France1](img/France1.png)
  ![Italy1](img/Italy1.png)
  ![US1](img/US1.png)
- ![UK1](img/Uk1.png)
+ ![UK1](img/UK1.png)
  
 ## <a name="6"></a>Road map with future features
 If I have more time on this project, I would dive into some emerging countries like BRICS. It would present us the relations among suicide, society variation and economic growth. It must be a very interesting topic.
 
-
-
+## <a name="7"></a>Showcase video
+[Google Drive Link](https://drive.google.com/file/d/0ByP7Z6TcUiA2V3lhemhUUnRNT1E/view)
 
