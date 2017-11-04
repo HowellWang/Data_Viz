@@ -1,10 +1,11 @@
 # Lab7
 ### Visualization Redesign 
-[Tableau Public Link](https://public.tableau.com/profile/yuhao.wang#!/vizhome/Lab7_41/Lab7?publish=yes)
-
+[Tableau Public Link: HealthCare](https://public.tableau.com/profile/yuhao.wang#!/vizhome/Lab7_41/HealthCare)
+[Tableau Public Link: Retail](https://public.tableau.com/profile/yuhao.wang#!/vizhome/Lab7_41/Tail?publish=yes)
 ### Claim
 
-<b>The financial markets do not punish healthcare organization's security breaches!</b>
+<b>1.The financial markets do not punish healthcare organization's security breaches!</b><br/>
+<b>2.The financial markets do not punish retail organization's security breaches!</b>
 
 ### Critique on visualization of Lab 3
 
@@ -17,9 +18,9 @@
 
 1. I choose to give up Equifax as my visualization object company.
 
-1. Recollected healthcare companies' stock data.
+1. Recollected healthcare and retail companies' stock data.
 
-1. Compared the different healthcare companies' stock changes when the data breaches happened.
+1. Compared the different healthcare and retail companies' stock changes when the data breaches happened.
 
 
 
@@ -32,5 +33,6 @@
 1. Built a dashboard to present all the outcomes which can spare audience's time 
 
 ![dashboard](img/dashboard.png)
+![retail](img/retail.png)
 
 
