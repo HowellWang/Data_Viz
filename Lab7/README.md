@@ -1,6 +1,6 @@
 # Lab7
 ### Visualization Redesign 
-[Tableau Public Link: HealthCare](https://public.tableau.com/profile/yuhao.wang#!/vizhome/Lab7_41/HealthCare)
+[Tableau Public Link: HealthCare](https://public.tableau.com/profile/yuhao.wang#!/vizhome/Lab7_41/HealthCare)<br/>
 [Tableau Public Link: Retail](https://public.tableau.com/profile/yuhao.wang#!/vizhome/Lab7_41/Tail?publish=yes)
 ### Claim
 
