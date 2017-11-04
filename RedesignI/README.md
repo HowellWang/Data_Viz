@@ -71,7 +71,7 @@ Especially, US's suicide rate is a little stable, so I decide to increase more o
  ![US](img/US.png)
  ![UK](img/Uk.png)
 
-##<a name="4"></a> Road Map: 
+## <a name="4"></a> Road Map: 
 
 It is easy to critique and deconstruct a topic, but it is not my purpose. Collecting data and cleaning data in this project would not be hard, making impressive critics and identifying my audiences would be more important and hard.
 According to critiques I mentioned, I decide to gather the the past 50 years' (1955 - 2005) data of suicide rate and GDP growth rate of G7, which are the most rich countries in this world and their experience a stable social environment after War II (except Germany, there were ever two Germany before 1990s), and draw the trend line chart to analyze the correlation between suicide and economic growth. Thanks to Durkheim's study, the correlation is significant. When the economic development is good, the suicide rate is getting low, and vice versa. Although UK and US's suicide rate don't change a lot as the growth rate change, we can still see the changes in those countries. As the old developed countries, their societies are more stable and economically sound, so the changes of economy cannot affect the suicide rate a lot. I try to use unemployment to help me find more clues, but it doesn't work well.
