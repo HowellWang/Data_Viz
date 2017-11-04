@@ -69,7 +69,7 @@ That's my second try after I finished the data cleaning. However, there still wa
 ### 3. Intermediate visualization for the third try
 Especially, US's suicide rate is a little stable, so I decide to increase more one variable to analyze US's suicide.
  ![US](img/US.png)
- ![UK](img/Uk.png)
+ ![UK](img/UK.png)
 
 ## <a name="4"></a> Road Map: 
 
