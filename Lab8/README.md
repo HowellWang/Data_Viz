@@ -31,7 +31,6 @@ So I decide to use side-by-side cycles to help me visualize the subset info.
 
 1. Polish the visualization and throw away the useless bar charts and bubble charts
 
-1. Built a dashboard to present all the outcomes which can spare audience's time 
 
 ### Visualization Redesign 
 ![dashboard](dashboard.png)
