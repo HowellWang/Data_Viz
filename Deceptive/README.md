@@ -1,7 +1,7 @@
 # Legalizing Marijuana Cannot Cause More Fatal Crashes
 
 [**Tableau Public Link** ](https://public.tableau.com/profile/yuhao.wang#!/vizhome/OnSuicide/Japan?publish=yes)  
-[**Jupyter Notebook Link**](https://github.com/HowellWang/Data_Viz_HW/blob/master/RedesignI/Redesign.ipynb)
+[**Jupyter Notebook Link**](https://github.com/HowellWang/Data_Viz_HW/blob/master/Deceptive/Deceptive_Visualization.ipynb)
 
 This README file contains the following project delieverables
 
@@ -14,7 +14,7 @@ This README file contains the following project delieverables
 7. [Showcase video](#7)
 
 ## <a name="1"></a>Project Statment 
-![introduction](introduction.JPG)
+![introduction](Introduction.JPG)
 <b>(Deceptive Visualization)</b>
 ### Motivation:
 
