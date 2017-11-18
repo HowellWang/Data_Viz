@@ -1,6 +1,10 @@
 # Legalizing Marijuana Haven't Caused More Drug Related Fatal Crashes 
 
+<<<<<<< HEAD
 [**Tableau Public Link** ](https://public.tableau.com/profile/yuhao.wang#!/vizhome/Final_Version/Sheet1?publish=yes)  
+=======
+[**Tableau Public Link** ](https://public.tableau.com/profile/yuhao.wang#!/vizhome/OnSuicide/Japan?publish=yes)  
+>>>>>>> 9eac5ecb4e807f4921e820ead8a8d5b044756e19
 [**Jupyter Notebook Link**](https://github.com/HowellWang/Data_Viz_HW/blob/master/Deceptive/Deceptive_Visualization.ipynb)
 
 This README file contains the following project delieverables
@@ -16,7 +20,12 @@ This README file contains the following project delieverables
 <b>Just for fun: What is the deceptive visualization!</b>
 
 ## <a name="1"></a>Project Statment 
+<<<<<<< HEAD
 
+=======
+![introduction](Introduction.JPG)
+<b>(Deceptive Visualization)</b>
+>>>>>>> 9eac5ecb4e807f4921e820ead8a8d5b044756e19
 ### Motivation:
 
 Marijuana is always a sensitive and controversial issue in the world and USA. As the first state that legalize the medical marijuana, Washington State's experiment must leave us large amounts of cases to study. So when I set about my deceptive visualization project, the social situations after legalizing marijuana becomes my first choice.
