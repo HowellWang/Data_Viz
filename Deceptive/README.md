@@ -77,6 +77,6 @@ Warrant:
 <li>Compared the value of proportion before and after 2012 (WA legalized recreational pot use in this year)</li>
 
 ## <a name="6"></a>Showcase video
-[Google Drive Link](https://drive.google.com/file/d/1bg2dFHJRAPvQ5gggxw0zx9r58DW2RjVI/view)
+[Google Drive Link](https://drive.google.com/file/d/1bg2dFHJRAPvQ5gggxw0zx9r58DW2RjVI/view)(Only scu.edu mail can access this link)
  
 
