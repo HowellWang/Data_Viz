@@ -1,5 +1,6 @@
 # Dashboard on SCU’s MSIS program for Recruiters
 
+[**Tableau Public Link** ](https://public.tableau.com/profile/yuhao.wang#!/vizhome/SCU_MSIS_Dashboard/DashboardonSCUsMSISprogramforRecruiters?publish=yes)
 
 ### Motivation:
 
