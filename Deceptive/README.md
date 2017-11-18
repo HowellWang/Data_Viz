@@ -63,7 +63,7 @@ The second visualization try still disappointed me. Although I can use it to mak
 ![second_viz](img/second_viz.png)
 ## <a name="4"></a>Final data visualization
 
-In my final try, I got the thing I wanted. The proportion of marijuana in fatal crashes caused by drugs is no higher than it was a few years before legalization! So I can say that: Legalizing Marijuana Haven't Caused More Drug Related Fatal Crashes!<br/>
+In my final try, I got the thing I wanted. It is interesting, the situation in 2013 is better than 2011. Although the proportion has increased in a few years later, however, the proportion of marijuana in fatal crashes caused by drugs is no higher than it was a few years before legalization! So I can say that: Legalizing Marijuana Haven't Caused More Drug Related Fatal Crashes!<br/>
 ![final_viz](img/final_viz.png)
 
 ## <a name="5"></a>Argument Model
